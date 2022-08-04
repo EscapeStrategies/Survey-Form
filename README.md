@@ -9,4 +9,4 @@ First solo project after one week of coding
 
 Here is a preview of the survey form:
 
-![survey_form_preview](https://user-images.githubusercontent.com/110415606/182969998-f586315b-b7a6-473f-8e98-fbef483610cf.PNG)
+![survey_form_preview](https://user-images.githubusercontent.com/110415606/182970154-91e232c8-99c7-460f-b46e-af81666e281a.PNG)
