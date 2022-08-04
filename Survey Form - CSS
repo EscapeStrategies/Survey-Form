@@ -1,0 +1,81 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: rgba(127, 120, 200, 0.7);
+  font-family: Trebuchet MS;
+}
+
+p {
+}
+
+h1, p {
+  margin: 5;
+  text-align: center;
+}
+
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+label, input {
+  display: block;
+  margin-bottom: 5;
+  margin-top: 15;
+}
+
+label[type="inline"], input {
+  display: inline;
+}
+
+a[type="check-all"] {
+  font-size: 12;
+}
+
+input[id="name"], input[id="email"], input[id="number"] {
+  margin-top: -2;
+  width: 100%;
+  margin-bottom: 3
+}
+
+select {
+  display: block;
+  margin-bottom: 15;
+  width: 100%
+}
+
+fieldset[value="radio"] {
+  border: 0;
+}
+
+input[value="radio"] {
+  margin-top: 5;
+  margin-bottom: ;
+}
+
+fieldset[value="general"] {
+  border-color: black;
+  border-bottom: 0;
+}
+
+a {
+  font-size: 12
+}
+
+label[type="check"] {
+  margin-top: -5;
+  margin-bottom: -5;
+}
+
+input[type="checkbox"] {
+  margin-left: 0
+}
+
+input[type="submit"] {
+  width: 100%;
+  height: 2em;
+  margin: 1em auto;
+}
