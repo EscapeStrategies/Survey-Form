@@ -7,6 +7,7 @@
     <body>
       <h1 id="title">Survey Form</h1>
       <p id="description">Thank you for taking the time to help us improve</p>
+      <div>
         <form id="survey-form">
           <fieldset value="general">
           <label id="name-label">Name:</label> <input id="name" type="text" placeholder="Enter your Name" required/>
@@ -56,7 +57,8 @@
           <label type="check"><input type="checkbox" value="forum"/> Forum</label>
           <label type="check"><input type="checkbox" value="additional"/> Additional Courses</label>
           <label>Any comments or suggestions?</label>
-          <textarea rows="5" cols="58" placeholder="Enter your comment here..."></textarea>
+          <textarea rows="5" cols="62" placeholder="Enter your comment here..."></textarea>
           <input type="submit" value="Submit" id="submit"/>
+      </div>
     </body>
 </html>
